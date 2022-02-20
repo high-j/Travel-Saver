@@ -13,6 +13,7 @@
 * Update : 會員資料修改
 * Comment-Rating-mem : 會員評論頁面
 * Comment-Rating-vistor : 訪客評論頁面
+* DeleteComment : 會員刪除評論
 
 ## 使用語法
 * 網頁開發 :  HTML、CSS、javascript、Java
