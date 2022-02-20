@@ -18,5 +18,6 @@
 ## 使用語法
 * 網頁開發 :  HTML、CSS、javascript、Java
 * 資料庫 : Oracle MySQL
+* 雲端伺服器 : Heroku
 
 
