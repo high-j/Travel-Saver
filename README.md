@@ -9,6 +9,7 @@
 * Member : 會員登入頁面
 * register : 訪客註冊頁面
 * MemSearch : 會員搜尋頁面
+* MemSearch2 : 用來呈現搜尋結果
 * Search : 訪客搜尋頁面
 * Update : 會員資料修改
 * Comment-Rating-mem : 會員評論頁面
