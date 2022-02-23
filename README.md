@@ -15,9 +15,11 @@
 * Comment-Rating-vistor : 訪客評論頁面
 * DeleteComment : 會員刪除評論
 
-## 使用語法
+## 開發環境
 * 網頁開發 :  HTML、CSS、javascript、Java
 * 資料庫 : Oracle MySQL
 * 雲端伺服器 : Heroku
+* web server : Apache Tomcat
+
 
 
